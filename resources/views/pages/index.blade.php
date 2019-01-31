@@ -9,5 +9,6 @@
         <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
         <a class="btn btn-primary btn-lg" href="/login">Login</a>
         <a class="btn btn-danger btn-lg" href="/register" >SigUp</a>
+        
 </div>
 @endsection()
