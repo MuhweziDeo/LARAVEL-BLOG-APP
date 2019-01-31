@@ -13,7 +13,7 @@
         </div>
         
     @endforeach
-    <li> {{$posts->links()}}</li>
+     {{$posts->links()}}
    
 @else
     <p>No Posts Yet</p>
